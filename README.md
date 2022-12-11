@@ -1,2 +1,2 @@
 # Information-Retrieval
-SI 650 project and assignments
+SI 650 final project, class demos, and assignments
